@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --no-preserve-root +x
+chmod a+x ../ ../.. ../../..
